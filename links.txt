@@ -1,0 +1,17 @@
+https://github.com/swar/nba_api
+
+https://www.kaggle.com/wyattowalsh/basketball
+
+https://www.kaggle.com/discussions/general/52669
+
+https://developer.jcdecaux.com/#/home
+
+https://github.com/public-apis/public-apis
+
+https://paperswithcode.com/dataset/imdb-movie-reviews
+
+http://insideairbnb.com/sevilla/
+
+https://developer.ticketmaster.com/products-and-docs/apis/getting-started/
+
+https://datos.gob.es/es/catalogo?q=sevilla&theme_id=vivienda&sort=score+desc%2C+metadata_created+desc
