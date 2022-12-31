@@ -12,6 +12,39 @@ https://paperswithcode.com/dataset/imdb-movie-reviews
 
 http://insideairbnb.com/sevilla/
 
-https://developer.ticketmaster.com/products-and-docs/apis/getting-started/
-
 https://datos.gob.es/es/catalogo?q=sevilla&theme_id=vivienda&sort=score+desc%2C+metadata_created+desc
+
+
+## YA SOLICITADAS
+--- SPOTIFY 
+https://developer.spotify.com/dashboard/applications/b00cc762eb664d2f8fc50e24c09d419b
+
+Client ID b00cc762eb664d2f8fc50e24c09d419b
+Client Secret 1db8591d49634b39aa8949b91b97bb2e
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+--- TICKETMASTER
+https://developer.ticketmaster.com/products-and-docs/apis/getting-started/
+https://developer-acct.ticketmaster.com/user/33973/apps
+
+juandelacuadra@gmail.com // DelaCuadra89
+
+Consumer Key
+I6gig2YeQG5W2olP97WTZUTIsZdmOvBu
+
+Consumer Secret 
+ppicZEn885O5uMJs
