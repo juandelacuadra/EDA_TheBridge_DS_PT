@@ -67,6 +67,36 @@ Bad Bunny;2022-04-01T20:00:00-0400;Miami;US
 Bad Bunny;2022-03-30T20:00:00-0400;Orlando;US
 Bad Bunny;2022-03-29T20:00:00-0400;Orlando;US
 Bad Bunny;2022-03-27T19:00:00-0400;Atlanta;US
+Bad Bunny;2022-03-26T20:00:00-0400;Charlotte;US
+Bad Bunny;2022-03-25T20:00:00-0400;Washington;US
+Bad Bunny;2022-03-23T20:00:00-0400;Montreal;Canada
+Bad Bunny;2022-03-22T20:00:00-0400;Boston;US
+Bad Bunny;2022-03-20T20:00:00-0400;Brooklyn;US
+Bad Bunny;2022-03-19T20:00:00-0400;Brooklyn;US
+Bad Bunny;2022-03-18T20:00:00-0400;Newark;US
+Bad Bunny;2022-03-16T20:00:00-0400;Philadelphia;US
+Bad Bunny;2022-03-14T22:30:00-0400;Toronto;Canada
+Bad Bunny;2022-03-14T20:00:00-0400;Toronto;Canada
+Bad Bunny;2022-03-12T20:00:00-0600;Rosemont;US
+Bad Bunny;2022-03-11T20:00:00-0600;Rosemont;US
+Bad Bunny;2022-03-10T20:00:00-0600;Rosemont;US
+Bad Bunny;2022-03-06T19:00:00-0700;Phoenix;US
+Bad Bunny;2022-03-05T20:00:00-0800;Las Vegas;US
+Bad Bunny;2022-03-04T20:00:00-0800;San Jose;US
+Bad Bunny;2022-03-03T20:00:00-0800;San Jose;US
+Bad Bunny;2022-03-01T20:00:00-0800;Seattle;US
+Bad Bunny;2022-02-28T20:00:00-0800;Portland;US
+Bad Bunny;2022-02-26T20:00:00-0800;Inglewood;US
+Bad Bunny;2022-02-25T20:00:00-0800;Inglewood;US
+Bad Bunny;2022-02-24T21:00:00-0800;Los Angeles (LA);US
+Bad Bunny;2022-02-23T20:00:00-0800;San Diego;US
+Bad Bunny;2022-02-19T20:00:00-0600;Dallas;US
+Bad Bunny;2022-02-18T20:00:00-0600;Dallas;US
+Bad Bunny;2022-02-17T20:00:00-0600;Houston;US
+Bad Bunny;2022-02-16T20:00:00-0600;Houston;US
+Bad Bunny;2022-02-13T20:30:00-0600;Hidalgo;US
+Bad Bunny;2022-02-11T20:00:00-0600;El Paso;US
+Bad Bunny;2022-02-09T20:00:00-0700;Denver;US
 Becky G;2022-11-17T22:30:00-0800;Las Vegas;US
 Becky G;2022-10-22T19:00:00-0700;Los Angeles (LA);US
 Becky G;2022-10-08;Newark;US
@@ -82,18 +112,6 @@ Becky G;2022-05-05;Las Vegas;US
 Becky G;2022-04-30;Las Vegas;US
 Becky G;2022-04-07T11:00:00-0400;Miami Beach;US
 Becky G;2022-01-14;Los Angeles (LA);US
-Bizarrap;2022-09-26T08:00:00-0400;Miami;US
-Bizarrap;2022-09-02;Madrid;Spain
-Bizarrap;2022-08-01T22:30:00+0200;Chiclana De La Frontera;Spain
-Bizarrap;2022-07-26;San Javier;Spain
-Bizarrap;2022-07-21;Asturias;Spain
-Bizarrap;2022-07-15;Terrassa;Spain
-Bizarrap;2022-07-13;Cuevas del Almanzora;Spain
-Bizarrap;2022-07-07;Valencia;Spain
-Bizarrap;2022-07-01;Seville;Spain
-Bizarrap;2022-06-18;Jaén;Spain
-Bizarrap;2022-06-10;Madrid;Spain
-Bizarrap;2022-03-18;San Isidro;Argentina
 Camila Cabello;2022-09-24;Santiago;Chile
 Camila Cabello;2022-09-23;Santiago;Chile
 Camila Cabello;2022-09-21;Santiago;Chile
@@ -155,8 +173,20 @@ Coldplay;2022-05-29T19:00:00-0500;Chicago;US
 Coldplay;2022-05-28T19:00:00-0500;Chicago;US
 Coldplay;2022-05-15T19:00:00-0700;Santa Clara;US
 Coldplay;2022-05-12T19:00:00-0700;Glendale;US
-Cris Mj;2022-07-16T18:00:00+0200;Las Palmas de Gran Canaria;Spain
-Cris Mj;2022-05-22;Santiago;Chile
+Coldplay;2022-05-08T19:00:00-0500;Houston;US
+Coldplay;2022-05-06T19:00:00-0500;Dallas;US
+Coldplay;2022-04-07T19:30:00-0500;Mexico City;Mexico
+Coldplay;2022-04-06T19:30:00-0500;Mexico City;Mexico
+Coldplay;2022-04-04T19:30:00-0500;Mexico City;Mexico
+Coldplay;2022-04-03T19:30:00-0500;Mexico City;Mexico
+Coldplay;2022-03-30T19:30:00-0600;Zapopan;Mexico
+Coldplay;2022-03-29T19:30:00-0600;Zapopan;Mexico
+Coldplay;2022-03-26T19:30:00-0600;Guadalupe;Mexico
+Coldplay;2022-03-25T19:30:00-0600;Guadalupe;Mexico
+Coldplay;2022-03-22T19:30:00-0400;Santo Domingo;Dominican Republic
+Coldplay;2022-03-19T19:30:00-0600;San Jose;Costa Rica
+Coldplay;2022-03-18T19:30:00-0600;San Jose;Costa Rica
+Coldplay;2022-01-15;Inglewood;US
 Doja Cat;2022-07-28T17:00:00-0500;Chicago;US
 Doja Cat;2022-07-03T13:30:00+0100;Rathfarnham;Ireland
 Doja Cat;2022-07-02T13:30:00+0100;Rathfarnham;Ireland
@@ -223,8 +253,20 @@ Ed Sheeran;2022-05-26T16:00:00+0100;Cardiff;UK
 Ed Sheeran;2022-05-13T16:00:00+0100;Belfast;UK
 Ed Sheeran;2022-05-12T16:00:00+0100;Belfast;UK
 Ed Sheeran;2022-05-06T16:00:00+0100;Limerick;Ireland
-Elley Duhé;2022-07-01;Hämeenlinna;Finland
-Elley Duhé;2022-05-24T20:00:00-0700;West Hollywood;US
+Ed Sheeran;2022-05-05T16:00:00+0100;Limerick;Ireland
+Ed Sheeran;2022-04-29T16:00:00+0100;Cork;Ireland
+Ed Sheeran;2022-04-28T16:00:00+0100;Cork;Ireland
+Ed Sheeran;2022-04-24T16:00:00+0100;Dublin;Ireland
+Ed Sheeran;2022-04-23T16:00:00+0100;Dublin;Ireland
+Ed Sheeran;2022-04-20T19:00:00+0100;Dublin;Ireland
+Ed Sheeran;2022-04-19T19:00:00+0100;Dublin;Ireland
+Ed Sheeran;2022-04-01T19:00:00+0100;London;UK
+Ed Sheeran;2022-03-27T18:45:00+0100;London;UK
+Ed Sheeran;2022-03-26T13:00:00+0000;Brighton;UK
+Ed Sheeran;2022-03-26T19:00:00+0000;Brighton;UK
+Ed Sheeran;2022-03-22T19:00:00+0000;London;UK
+Ed Sheeran;2022-03-21T19:00:00+0000;London;UK
+Ed Sheeran;2022-02-08T18:00:00+0000;London;UK
 Elton John;2022-11-20T20:00:00-0800;Los Angeles (LA);US
 Elton John;2022-11-19T20:00:00-0800;Los Angeles (LA);US
 Elton John;2022-11-17T20:00:00-0800;Los Angeles (LA);US
@@ -275,6 +317,48 @@ Elton John;2022-06-07T19:30:00+0200;Horsens;Denmark
 Elton John;2022-06-04T18:00:00+0200;Milan;Italy
 Elton John;2022-06-01T19:30:00+0200;Bern;Switzerland
 Elton John;2022-05-29T19:00:00+0200;Leipzig;Germany
+Elton John;2022-05-27T19:30:00+0200;Frankfurt;Germany
+Elton John;2022-05-22T19:30:00+0200;Fornebu;Norway
+Elton John;2022-05-21T19:30:00+0200;Fornebu;Norway
+Elton John;2022-04-28T19:00:00-0400;Miami;US
+Elton John;2022-04-27T19:00:00-0400;Orlando;US
+Elton John;2022-04-24T19:00:00-0400;Tampa;US
+Elton John;2022-04-23T20:00:00-0400;Jacksonville;US
+Elton John;2022-04-20T19:00:00-0400;Columbia;US
+Elton John;2022-04-19T19:00:00-0400;Greensboro;US
+Elton John;2022-04-16T20:00:00-0500;Louisville;US
+Elton John;2022-04-13T19:00:00-0400;Hershey;US
+Elton John;2022-04-12T19:00:00-0400;Columbus;US
+Elton John;2022-04-09T20:00:00-0500;Lexington;US
+Elton John;2022-04-08T20:00:00-0500;Knoxville;US
+Elton John;2022-04-05T20:00:00-0400;Grand Rapids;US
+Elton John;2022-04-02T20:00:00-0500;Milwaukee;US
+Elton John;2022-04-01T20:00:00-0400;Indianapolis;US
+Elton John;2022-03-30T19:00:00-0500;St Louis;US
+Elton John;2022-03-27T19:00:00-0500;Lincoln;US
+Elton John;2022-03-26T20:00:00-0500;Des Moines;US
+Elton John;2022-03-23T19:00:00-0500;St. Paul;US
+Elton John;2022-03-22T19:00:00-0500;St. Paul;US
+Elton John;2022-03-19;North Fremantle;Australia
+Elton John;2022-03-19T20:00:00-0500;Fargo;US
+Elton John;2022-03-06T20:00:00-0500;Uniondale;US
+Elton John;2022-03-05T20:00:00-0500;Uniondale;US
+Elton John;2022-03-02T20:00:00-0500;Brooklyn;US
+Elton John;2022-03-01T20:00:00-0500;Brooklyn;US
+Elton John;2022-02-27T19:30:00-0500;Hollywood;US
+Elton John;2022-02-25T20:00:00-0500;Newark;US
+Elton John;2022-02-23T20:00:00-0500;New York (NYC);US
+Elton John;2022-02-22T20:00:00-0500;New York (NYC);US
+Elton John;2022-02-09T20:00:00-0500;Detroit;US
+Elton John;2022-02-08T20:00:00-0500;Detroit;US
+Elton John;2022-02-05T19:00:00-0600;Chicago;US
+Elton John;2022-02-04T19:00:00-0600;Chicago;US
+Elton John;2022-02-01T19:00:00-0600;Kansas City;US
+Elton John;2022-01-30T20:00:00-0600;Oklahoma City;US
+Elton John;2022-01-29T19:00:00-0600;North Little Rock;US
+Elton John;2022-01-22T20:00:00-0600;Houston;US
+Elton John;2022-01-21T20:00:00-0600;Houston;US
+Elton John;2022-01-19T20:00:00-0600;New Orleans;US
 Farruko;2022-11-18;León;Mexico
 Farruko;2022-09-29;Coral Gables;US
 Farruko;2022-09-24T19:00:00-0700;San Diego;US
@@ -352,6 +436,14 @@ GAYLE;2022-04-01T19:00:00-0400;Boston;US
 GAYLE;2022-03-31T19:00:00-0400;New York (NYC);US
 GAYLE;2022-03-30T19:00:00-0400;New York (NYC);US
 GAYLE;2022-03-28T20:00:00-0400;Philadelphia;US
+GAYLE;2022-03-27T19:00:00-0400;Washington;US
+GAYLE;2022-03-25T20:00:00-0400;Atlanta;US
+GAYLE;2022-03-22T18:00:00-0400;New York (NYC);US
+GAYLE;2022-03-21T18:00:00-0400;New York (NYC);US
+GAYLE;2022-03-14T19:00:00-0700;West Hollywood;US
+GAYLE;2022-03-10T19:30:00-0600;Nashville;US
+GAYLE;2022-03-09T18:30:00-0600;Nashville;US
+GAYLE;2022-03-09T19:30:00-0600;Nashville;US
 Glass Animals;2022-09-08;Malaga;Spain
 Glass Animals;2022-09-07T20:00:00+0200;Paris;France
 Glass Animals;2022-09-05;Berlin;Germany
@@ -452,6 +544,38 @@ Harry Styles;2022-08-28T20:00:00-0400;New York (NYC);US
 Harry Styles;2022-08-27T20:00:00-0400;New York (NYC);US
 Harry Styles;2022-08-26T20:00:00-0400;New York (NYC);US
 Harry Styles;2022-08-22T20:00:00-0400;New York (NYC);US
+Harry Styles;2022-08-21T20:00:00-0400;New York (NYC);US
+Harry Styles;2022-08-20T20:00:00-0400;New York (NYC);US
+Harry Styles;2022-08-16T20:00:00-0400;Toronto;Canada
+Harry Styles;2022-08-15T20:00:00-0400;Toronto;Canada
+Harry Styles;2022-07-31T19:30:00+0100;Lisbon;Portugal
+Harry Styles;2022-07-29T21:00:00+0200;Madrid;Spain
+Harry Styles;2022-07-26T20:30:00+0200;Turin;Italy
+Harry Styles;2022-07-25T20:30:00+0200;Bologna;Italy
+Harry Styles;2022-07-22T20:00:00+0200;Cologne;Germany
+Harry Styles;2022-07-20T20:00:00+0200;Berlin;Germany
+Harry Styles;2022-07-18T18:00:00+0200;Krakow;Poland
+Harry Styles;2022-07-16T18:00:00+0200;Vienna;Austria
+Harry Styles;2022-07-15T20:00:00+0200;Prague;Czech Republic
+Harry Styles;2022-07-13T19:45:00+0200;Budapest;Hungary
+Harry Styles;2022-07-11T20:00:00+0200;Munich;Germany
+Harry Styles;2022-07-09T20:00:00+0200;Amsterdam;Netherlands
+Harry Styles;2022-07-07T18:30:00+0200;Merksem;Belgium
+Harry Styles;2022-07-05T20:00:00+0200;Paris;France
+Harry Styles;2022-07-01T19:30:00+0200;Fornebu;Norway
+Harry Styles;2022-06-29T19:30:00+0200;Johanneshov;Sweden
+Harry Styles;2022-06-26T19:00:00+0200;Hamburg;Germany
+Harry Styles;2022-06-22T18:00:00+0100;Dublin;Ireland
+Harry Styles;2022-06-19T16:00:00+0100;London;UK
+Harry Styles;2022-06-18T16:00:00+0100;London;UK
+Harry Styles;2022-06-16T16:00:00+0100;Manchester;UK
+Harry Styles;2022-06-15T16:00:00+0100;Manchester;UK
+Harry Styles;2022-06-12T12:00:00+0100;London;UK
+Harry Styles;2022-06-11T16:00:00+0100;Glasgow;UK
+Harry Styles;2022-05-27;Coventry;UK
+Harry Styles;2022-05-24T19:00:00+0100;London;UK
+Harry Styles;2022-04-22;Indio;US
+Harry Styles;2022-04-15;Indio;US
 Imagine Dragons;2022-12-10T18:00:00-0800;Inglewood;US
 Imagine Dragons;2022-12-02T19:30:00-0500;Washington;US
 Imagine Dragons;2022-11-20;Los Angeles (LA);US
@@ -502,6 +626,27 @@ Imagine Dragons;2022-04-22T19:00:00-0400;Ottawa;Canada
 Imagine Dragons;2022-04-19T19:00:00-0500;Winnipeg;Canada
 Imagine Dragons;2022-04-17T19:00:00-0500;Saskatoon;Canada
 Imagine Dragons;2022-04-15T19:00:00-0600;Calgary;Canada
+Imagine Dragons;2022-04-13T19:00:00-0600;Edmonton;Canada
+Imagine Dragons;2022-04-10T19:00:00-0700;Victoria;Canada
+Imagine Dragons;2022-03-22;Asunción;Paraguay
+Imagine Dragons;2022-03-14T19:00:00-0700;Phoenix;US
+Imagine Dragons;2022-03-12T19:00:00-0800;Los Angeles (LA);US
+Imagine Dragons;2022-03-09T19:00:00-0800;Portland;US
+Imagine Dragons;2022-03-07T19:00:00-0800;Seattle;US
+Imagine Dragons;2022-03-05T19:00:00-0800;Seattle;US
+Imagine Dragons;2022-03-02T19:00:00-0700;Boise;US
+Imagine Dragons;2022-02-27T19:00:00-0600;Minneapolis;US
+Imagine Dragons;2022-02-25T19:00:00-0600;Milwaukee;US
+Imagine Dragons;2022-02-23T19:00:00-0600;St Louis;US
+Imagine Dragons;2022-02-21T19:00:00-0500;Indianapolis;US
+Imagine Dragons;2022-02-19T19:00:00-0500;Pittsburgh;US
+Imagine Dragons;2022-02-16T19:00:00-0500;Allentown;US
+Imagine Dragons;2022-02-14T19:00:00-0500;Elmont;US
+Imagine Dragons;2022-02-12T19:00:00-0500;Columbia;US
+Imagine Dragons;2022-02-10T19:00:00-0500;Raleigh;US
+Imagine Dragons;2022-02-08T19:00:00-0500;Jacksonville;US
+Imagine Dragons;2022-02-06T19:00:00-0500;Miami;US
+Imagine Dragons;2022-01-15;Inglewood;US
 Jack Harlow;2022-12-18T20:00:00-0600;Louisville;US
 Jack Harlow;2022-12-11;Boston;US
 Jack Harlow;2022-12-05;Rosemont;US
@@ -552,6 +697,48 @@ Jack Harlow;2022-09-06T19:45:00-0500;Nashville;US
 Jack Harlow;2022-09-05T19:45:00-0400;Cincinnati;US
 Jack Harlow;2022-08-26T14:00:00+0100;Wetherby;UK
 Jack Harlow;2022-08-26T09:30:00+0100;Reading;UK
+Jack Harlow;2022-08-19T23:59:00+0200;Biddinghuizen;Netherlands
+Jack Harlow;2022-08-18;Kiewit-Hasselt;Belgium
+Jack Harlow;2022-08-05;San Francisco;US
+Jack Harlow;2022-07-31T20:00:00+1200;Auckland;New Zealand
+Jack Harlow;2022-07-29;Melbourne;Australia
+Jack Harlow;2022-07-28;Melbourne;Australia
+Jack Harlow;2022-07-26;Kensington;Australia
+Jack Harlow;2022-07-25T19:00:00+1000;Kensington;Australia
+Jack Harlow;2022-07-22;Byron Bay;Australia
+Jack Harlow;2022-07-22T10:30:00+0930;Wayville;Australia
+Jack Harlow;2022-07-20T20:00:00+0800;Mt Claremont;Australia
+Jack Harlow;2022-07-16;Paris;France
+Jack Harlow;2022-07-13;Wabern bei Bern;Switzerland
+Jack Harlow;2022-07-08T13:00:00+0100;London;UK
+Jack Harlow;2022-07-08T11:00:00+0100;Birmingham;UK
+Jack Harlow;2022-07-07;Gräfenhainichen;Germany
+Jack Harlow;2022-07-06;Frauenfeld;Switzerland
+Jack Harlow;2022-07-06;Portimão;Portugal
+Jack Harlow;2022-07-01;Stockholm;Sweden
+Jack Harlow;2022-07-01T16:59:00+0200;Hilvarenbeek;Netherlands
+Jack Harlow;2022-07-01T13:30:00+0100;Rathfarnham;Ireland
+Jack Harlow;2022-06-11;Melbourne;Australia
+Jack Harlow;2022-06-10;Queens;US
+Jack Harlow;2022-05-20;Gulf Shores;US
+Jack Harlow;2022-05-01;Amherst;US
+Jack Harlow;2022-04-30T21:00:00-0400;Lowell;US
+Jack Harlow;2022-04-02;Las Vegas;US
+Jack Harlow;2022-03-25;São Paulo;Brazil
+Jack Harlow;2022-03-18;Santiago;Chile
+Jack Harlow;2022-03-18;San Isidro;Argentina
+Jack Harlow;2022-03-17;Las Vegas;US
+Jack Harlow;2022-02-20;Cleveland;US
+Jack Harlow;2022-01-17T19:00:00-0800;Sacramento;US
+Jack Harlow;2022-01-16T19:00:00-0800;Sacramento;US
+Jack Harlow;2022-01-15T20:00:00-0800;San Francisco;US
+Jack Harlow;2022-01-14T20:00:00-0800;Oakland;US
+Jack Harlow;2022-01-13T20:00:00-0800;San Jose;US
+Jack Harlow;2022-01-11T19:00:00-0800;San Luis Obispo;US
+Jack Harlow;2022-01-10T19:00:00-0800;San Diego;US
+Jack Harlow;2022-01-09T20:00:00-0800;Pomona;US
+Jack Harlow;2022-01-08T20:00:00-0800;Los Angeles (LA);US
+Jack Harlow;2022-01-07T20:00:00-0800;Los Angeles (LA);US
 Joji;2022-12-09;Manila;Philippines
 Joji;2022-12-03;Jakarta;Indonesia
 Joji;2022-10-21;Miami;US
@@ -632,6 +819,8 @@ Justin Bieber;2022-03-07T19:30:00-0800;Los Angeles (LA);US
 Justin Bieber;2022-03-04T19:30:00-0800;Sacramento;US
 Justin Bieber;2022-03-02T19:30:00-0800;San Jose;US
 Justin Bieber;2022-02-28T19:30:00-0800;San Jose;US
+Justin Bieber;2022-02-26T19:30:00-0800;Tacoma;US
+Justin Bieber;2022-02-18T19:00:00-0800;San Diego;US
 KAROL G;2022-11-17;Las Vegas;US
 KAROL G;2022-11-02T20:00:00-0400;Boston;US
 KAROL G;2022-10-29T20:00:00-0700;Vancouver;Canada
@@ -682,6 +871,16 @@ KAROL G;2022-06-02T20:00:00-0500;Quito;Ecuador
 KAROL G;2022-05-28T20:00:00-0300;Buenos Aires;Argentina
 KAROL G;2022-05-27T20:00:00-0300;Buenos Aires;Argentina
 KAROL G;2022-05-26T21:00:00-0400;Santiago;Chile
+KAROL G;2022-05-25T21:00:00-0400;Santiago;Chile
+KAROL G;2022-05-22T18:00:00-0500;Bogota;Colombia
+KAROL G;2022-05-21T18:00:00-0500;Bogota;Colombia
+KAROL G;2022-05-14T18:00:00-0500;Santiago De Cali;Colombia
+KAROL G;2022-04-22;Indio;US
+KAROL G;2022-04-15;Indio;US
+KAROL G;2022-03-26T17:00:00-0500;Barranquilla;Colombia
+KAROL G;2022-03-02T18:00:00-0800;Inglewood;US
+KAROL G;2022-01-29;Las Vegas;US
+KAROL G;2022-01-22T21:00:00-0400;La Romana;Dominican Republic
 Lil Nas X;2022-12-31T09:00:00+1100;Byron Bay;Australia
 Lil Nas X;2022-12-29;Murroon;Australia
 Lil Nas X;2022-12-28;Sydney;Australia
@@ -799,6 +998,48 @@ Lost Frequencies;2022-07-29;Ohrid;Macedonia
 Lost Frequencies;2022-07-29;Boom;Belgium
 Lost Frequencies;2022-07-22;Boom;Belgium
 Lost Frequencies;2022-07-21;Ibiza;Spain
+Lost Frequencies;2022-07-15;Boom;Belgium
+Lost Frequencies;2022-07-15;La Coruna;Spain
+Lost Frequencies;2022-07-15;Vaasa;Finland
+Lost Frequencies;2022-07-14;Benicassim;Spain
+Lost Frequencies;2022-07-14;La Ferté-Saint-Aubin;France
+Lost Frequencies;2022-07-13;Tønsberg;Norway
+Lost Frequencies;2022-07-07;Murten;Switzerland
+Lost Frequencies;2022-07-06;Neustadt-Glewe;Germany
+Lost Frequencies;2022-07-06T17:00:00+0200;Ibiza;Spain
+Lost Frequencies;2022-07-01;Vitkovice;Czech Republic
+Lost Frequencies;2022-07-01;Matosinhos;Portugal
+Lost Frequencies;2022-07-01;Kristiansand;Norway
+Lost Frequencies;2022-06-30;Rotselaar;Belgium
+Lost Frequencies;2022-06-30;Zürich;Switzerland
+Lost Frequencies;2022-06-29;Zamárdi;Hungary
+Lost Frequencies;2022-06-24;Évreux;France
+Lost Frequencies;2022-06-24T14:00:00+0200;Marseille;France
+Lost Frequencies;2022-06-23;Odense V;Denmark
+Lost Frequencies;2022-06-22T17:00:00+0200;Ibiza;Spain
+Lost Frequencies;2022-06-17T13:00:00+0200;Landgraaf;Netherlands
+Lost Frequencies;2022-06-15T17:00:00+0200;Ibiza;Spain
+Lost Frequencies;2022-06-10;Bratislava;Slovakia
+Lost Frequencies;2022-06-06;Sant Josep de sa Talaia;Spain
+Lost Frequencies;2022-05-26;Vechta;Germany
+Lost Frequencies;2022-05-25;Paris;France
+Lost Frequencies;2022-05-20;Mainz;Germany
+Lost Frequencies;2022-05-13;Doha;Qatar
+Lost Frequencies;2022-05-12;Dubai;United Arab Emirates
+Lost Frequencies;2022-04-23T22:00:00-0400;Philadelphia;US
+Lost Frequencies;2022-04-22;Chicago;US
+Lost Frequencies;2022-04-15;Vitré;France
+Lost Frequencies;2022-04-09;Santiago;Chile
+Lost Frequencies;2022-04-01;St. Moritz;Switzerland
+Lost Frequencies;2022-03-26;Bulle;Switzerland
+Lost Frequencies;2022-03-23;Alpe d'Huez;France
+Lost Frequencies;2022-03-22;Alpe d'Huez;France
+Lost Frequencies;2022-03-12;Dubai;United Arab Emirates
+Lost Frequencies;2022-02-25;Mexico City;Mexico
+Lost Frequencies;2022-02-20;Miami;US
+Lost Frequencies;2022-02-18;Chicago;US
+Lost Frequencies;2022-01-28;London;UK
+Lost Frequencies;2022-01-22;Les Orres;France
 Manuel Turizo;2022-11-04;Madrid;Spain
 Manuel Turizo;2022-10-08;Newark;US
 Manuel Turizo;2022-09-29;Coral Gables;US
@@ -913,6 +1154,33 @@ OneRepublic;2022-07-24T19:00:00-0400;Camden;US
 OneRepublic;2022-07-23T18:30:00-0400;Gilford;US
 OneRepublic;2022-07-22T19:00:00-0400;Uncasville;US
 OneRepublic;2022-07-20T19:00:00-0400;Wantagh;US
+OneRepublic;2022-07-19T19:00:00-0400;Mansfield;US
+OneRepublic;2022-07-17T19:00:00-0400;Holmdel;US
+OneRepublic;2022-07-16T19:00:00-0400;Bristow;US
+OneRepublic;2022-05-28T19:00:00+0400;Batumi;Georgia
+OneRepublic;2022-05-24;Moscow;Russian Federation
+OneRepublic;2022-05-23T19:00:00+0300;St. Petersburg;Russian Federation
+OneRepublic;2022-05-21T19:00:00+0300;Tallinn;Estonia
+OneRepublic;2022-05-20;Riga;Latvia
+OneRepublic;2022-05-18T19:00:00+0300;Kaunas;Lithuania
+OneRepublic;2022-05-16;Zürich;Switzerland
+OneRepublic;2022-05-14T20:00:00+0200;Munich;Germany
+OneRepublic;2022-05-11T19:00:00+0200;Ljubljana;Slovenia
+OneRepublic;2022-05-10T20:00:00+0200;Prague;Czech Republic
+OneRepublic;2022-05-09T18:00:00+0200;Warsaw;Poland
+OneRepublic;2022-05-07;Bratislava;Slovakia
+OneRepublic;2022-05-04T20:30:00+0200;Sesto San Giovanni;Italy
+OneRepublic;2022-05-03T21:30:00+0200;Sesto San Giovanni;Italy
+OneRepublic;2022-04-30T20:00:00+0200;Hamburg;Germany
+OneRepublic;2022-04-29T20:00:00+0200;Amsterdam;Netherlands
+OneRepublic;2022-04-27T20:00:00+0200;Paris;France
+OneRepublic;2022-04-25T19:00:00+0100;London;UK
+OneRepublic;2022-04-24T19:00:00+0100;Manchester;UK
+OneRepublic;2022-04-23T18:30:00+0100;Glasgow;UK
+OneRepublic;2022-04-21T19:00:00+0200;Esch Sur Alzette;Luxembourg
+OneRepublic;2022-04-20T20:00:00+0200;Brussels;Belgium
+OneRepublic;2022-04-19T20:00:00+0200;Düsseldorf;Germany
+OneRepublic;2022-03-05T20:00:00-0600;Nashville;US
 Rauw Alejandro;2022-11-17;Las Vegas;US
 Rauw Alejandro;2022-10-01;Sunrise;US
 Rauw Alejandro;2022-07-22;Tavernes de la Valldigna;Spain
@@ -942,14 +1210,6 @@ Rauw Alejandro;2022-02-19;Medellín;Colombia
 Rauw Alejandro;2022-02-18T21:00:00-0300;Buenos Aires;Argentina
 Rauw Alejandro;2022-01-15;Los Angeles (LA);US
 Ruth B.;2022-08-18T22:00:00-0400;New York (NYC);US
-Stephen Sanchez;2022-09-09;Nashville;US
-Stephen Sanchez;2022-08-04T20:00:00-0500;Nashville;US
-Stephen Sanchez;2022-07-15T18:30:00+0200;Amsterdam;Netherlands
-Stephen Sanchez;2022-07-13T19:30:00+0100;London;UK
-Tainy;2022-07-21;San Juan;Puerto Rico
-Tainy;2022-06-09;Barcelona;Spain
-Tainy;2022-04-02;Mexico City;Mexico
-Tainy;2022-02-19;Medellín;Colombia
 The Kid LAROI;2022-12-11;Boston;US
 The Kid LAROI;2022-12-09;New York (NYC);US
 The Kid LAROI;2022-12-06;Detroit;US
@@ -1000,6 +1260,27 @@ The Kid LAROI;2022-06-25;Rotselaar;Belgium
 The Kid LAROI;2022-06-24T19:00:00+0200;Zürich;Switzerland
 The Kid LAROI;2022-06-23T20:00:00+0200;Esch Sur Alzette;Luxembourg
 The Kid LAROI;2022-06-21T20:00:00+0200;Munich;Germany
+The Kid LAROI;2022-06-20T20:00:00+0200;Tilburg;Netherlands
+The Kid LAROI;2022-06-18T20:00:00+0200;Frederiksberg;Denmark
+The Kid LAROI;2022-06-11T18:00:00+1200;Auckland;New Zealand
+The Kid LAROI;2022-06-10T19:00:00+1200;Wellington;New Zealand
+The Kid LAROI;2022-06-08T17:30:00+1000;Brisbane;Australia
+The Kid LAROI;2022-06-07T17:50:00+1000;Brisbane;Australia
+The Kid LAROI;2022-06-04;Melbourne;Australia
+The Kid LAROI;2022-06-03;Melbourne;Australia
+The Kid LAROI;2022-06-01;Adelaide;Australia
+The Kid LAROI;2022-05-30;Perth;Australia
+The Kid LAROI;2022-05-27;Sydney;Australia
+The Kid LAROI;2022-05-26;Sydney;Australia
+The Kid LAROI;2022-05-13;Mexico City;Mexico
+The Kid LAROI;2022-05-12T20:30:00-0500;Mexico City;Mexico
+The Kid LAROI;2022-05-11T21:00:00-0500;Monterrey;Mexico
+The Kid LAROI;2022-04-08T21:00:00+0200;Milan;Italy
+The Kid LAROI;2022-03-31T18:00:00+0200;Oslo;Norway
+The Kid LAROI;2022-03-29T20:00:00+0200;Copenhagen;Denmark
+The Kid LAROI;2022-03-28T20:00:00+0200;Copenhagen;Denmark
+The Kid LAROI;2022-02-11T20:00:00-0600;Houston;US
+The Kid LAROI;2022-02-10T19:00:00-0600;Austin;US
 The Neighbourhood;2022-10-26T19:00:00+0100;Manchester;UK
 The Neighbourhood;2022-10-24T19:00:00+0100;London;UK
 The Neighbourhood;2022-10-18T20:00:00+0200;Cologne;Germany
@@ -1103,6 +1384,49 @@ Tiësto;2022-07-14T20:00:00-0400;Brooklyn;US
 Tiësto;2022-07-08;Split;Croatia
 Tiësto;2022-07-08;Kallithéa;Greece
 Tiësto;2022-07-02T11:00:00-0700;Las Vegas;US
+Tiësto;2022-07-01T20:00:00-0400;Windsor;Canada
+Tiësto;2022-06-30T17:00:00-0400;Toronto;Canada
+Tiësto;2022-06-25T21:30:00-0400;Boston;US
+Tiësto;2022-06-25T11:00:00-0400;Atlantic City;US
+Tiësto;2022-06-24;Ottawa;Canada
+Tiësto;2022-06-17T18:00:00+0100;Belfast;UK
+Tiësto;2022-06-16T16:30:00+0200;Santiago de Compostela;Spain
+Tiësto;2022-06-15T19:00:00+0200;Gliwice;Poland
+Tiësto;2022-06-11T11:00:00-0700;Las Vegas;US
+Tiësto;2022-06-11T22:00:00-0700;Los Angeles (LA);US
+Tiësto;2022-06-03;Bucharest;Romania
+Tiësto;2022-06-03;Umeå;Sweden
+Tiësto;2022-05-28;Las Vegas;US
+Tiësto;2022-05-23T22:00:00-0500;Dallas;US
+Tiësto;2022-05-21;Las Vegas;US
+Tiësto;2022-05-21;Las Vegas;US
+Tiësto;2022-05-19;Las Vegas;US
+Tiësto;2022-05-14;Las Vegas;US
+Tiësto;2022-05-08T08:00:00-0400;Miami;US
+Tiësto;2022-05-07;Las Vegas;US
+Tiësto;2022-04-30T08:00:00-0400;Miami;US
+Tiësto;2022-04-29;Las Vegas;US
+Tiësto;2022-04-23;Las Vegas;US
+Tiësto;2022-04-22;Ennis;US
+Tiësto;2022-04-16;Las Vegas;US
+Tiësto;2022-04-09;Las Vegas;US
+Tiësto;2022-04-08T11:00:00-0400;Miami Beach;US
+Tiësto;2022-04-07T08:00:00-0400;Miami;US
+Tiësto;2022-03-31;Cancun;Mexico
+Tiësto;2022-03-26;Las Vegas;US
+Tiësto;2022-03-23T11:00:00-0400;Miami Beach;US
+Tiësto;2022-03-20T14:00:00-0500;Houston;US
+Tiësto;2022-03-18;Las Vegas;US
+Tiësto;2022-03-05T09:30:00-0800;San Diego;US
+Tiësto;2022-03-05T21:30:00-0800;San Diego;US
+Tiësto;2022-03-04;Dubai;United Arab Emirates
+Tiësto;2022-02-20T22:00:00-0700;Aspen;US
+Tiësto;2022-02-19;Las Vegas;US
+Tiësto;2022-02-12;Los Angeles (LA);US
+Tiësto;2022-02-11;Las Vegas;US
+Tiësto;2022-02-03T19:00:00+0000;London;UK
+Tiësto;2022-01-29T22:30:00-0800;Las Vegas;US
+Tiësto;2021-12-31;San Bernardino;US
 Tom Odell;2022-11-09T18:00:00+0000;Southampton;UK
 Tom Odell;2022-10-26T19:00:00+0100;Bournemouth;UK
 Tom Odell;2022-10-24T19:00:00+0100;Oxford;UK
@@ -1153,3 +1477,23 @@ Tom Odell;2022-04-11T19:30:00-0500;Minneapolis;US
 Tom Odell;2022-04-09T21:00:00-0600;Denver;US
 Tom Odell;2022-04-08T19:00:00-0600;Salt Lake City;US
 Tom Odell;2022-04-06T21:00:00-0700;Los Angeles (LA);US
+Tom Odell;2022-04-04T20:30:00-0700;San Francisco;US
+Tom Odell;2022-04-02T21:00:00-0700;Portland;US
+Tom Odell;2022-04-01T18:00:00-0700;Seattle;US
+Tom Odell;2022-03-31T19:00:00-0700;Vancouver;Canada
+Tom Odell;2022-03-08T19:00:00+0000;Birmingham;UK
+Tom Odell;2022-03-06T19:00:00+0000;Cambridge;UK
+Tom Odell;2022-03-05T18:30:00+0000;Nottingham;UK
+Tom Odell;2022-03-04T19:00:00+0000;Glasgow;UK
+Tom Odell;2022-03-02T19:00:00+0000;Newcastle Upon Tyne;UK
+Tom Odell;2022-03-01T19:00:00+0000;Leeds;UK
+Tom Odell;2022-02-27T19:00:00+0000;Cardiff;UK
+Tom Odell;2022-02-26T19:00:00+0000;Liverpool;UK
+Tom Odell;2022-02-24T19:00:00+0000;London;UK
+Tom Odell;2022-02-22T19:00:00+0000;Oxford;UK
+Tom Odell;2022-02-20T19:00:00+0000;Manchester;UK
+Tom Odell;2022-02-19T19:00:00+0000;Bristol;UK
+Tom Odell;2022-02-18T19:00:00+0000;Southampton;UK
+Tom Odell;2022-02-16T19:00:00+0000;Dublin;Ireland
+Tom Odell;2022-02-15T19:00:00+0000;Belfast;UK
+Tom Odell;2022-01-22T19:30:00+0000;London;UK
