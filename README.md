@@ -14,4 +14,4 @@ En este EDA investigaremos un poco sobre las tendencias musicales en 2022 a nive
 ---
 Documentos:
 
-* [Archivo 1](https://github.com/slp22/eda-project/blob/master/EDA_mta_proposal.md)
+* [Memoria](https://github.com/juandelacuadra/EDA_TheBridge_DS_PT/blob/main/Memoria.ipynb)
