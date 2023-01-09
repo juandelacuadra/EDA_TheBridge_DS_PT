@@ -1,5 +1,0 @@
---- SPOTIFY 
-https://developer.spotify.com/dashboard/applications/b00cc762eb664d2f8fc50e24c09d419b
-
-Client ID b00cc762eb664d2f8fc50e24c09d419b
-Client Secret 1db8591d49634b39aa8949b91b97bb2e

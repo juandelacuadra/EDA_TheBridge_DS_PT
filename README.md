@@ -15,3 +15,6 @@ En este EDA investigaremos un poco sobre las tendencias musicales en 2022 a nive
 Documentos:
 
 * [Memoria](https://github.com/juandelacuadra/EDA_TheBridge_DS_PT/blob/main/Memoria.ipynb)
+* [Datos Spotify](https://github.com/juandelacuadra/EDA_TheBridge_DS_PT/blob/main/notebooks/1%20-%20API_Spotify.ipynb)
+* [Datos Songkick](https://github.com/juandelacuadra/EDA_TheBridge_DS_PT/blob/main/notebooks/2%20-%20Scrapping%20Conciertos.ipynb)
+* [Exploratorio](https://github.com/juandelacuadra/EDA_TheBridge_DS_PT/blob/main/notebooks/3%20-%20Exploratorio.ipynb)
